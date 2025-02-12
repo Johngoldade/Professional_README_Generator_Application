@@ -48,6 +48,8 @@ Once these questions are completed, the application will construct the README.md
 
 From there, the file can be edited or copied to better match the needs of your project. If more than one README.md is to be created, make sure to remove the readme from the folder or it will be overwritten by the next file. 
 
+To view a demo video on how to use this application, click [here](https://drive.google.com/file/d/1g20XFHiF0A5BwS0iUsI0aZd2GzRyAlv0/view?usp=sharing).
+
 ## Credits
 
 - The license badges used in "generateMarkdown.js" were copied from the [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) repository by lukas-h.
