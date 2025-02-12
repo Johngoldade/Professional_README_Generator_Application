@@ -24,7 +24,7 @@ To install this application, clone the source code to your local machine from th
 
 To use the application, open the locally stored code in VS Code. NODE.js is needed to run the application. If NODE.js is not already installed on your machine, information to install it can be found in this article: [NodeJS Installation Guide](https://coding-boot-camp.github.io/full-stack/nodejs/nodejs-installation-guide). Once NODE.js is installed, open the Integrated Terminal and navigate to the "Source_Code" folder, or in the file menu on the left side of the screen, right click on "Source_Code" and select "Open in Integrated Terminal".
 
-![Opening intergrated terminal from the source_Code folder](./tree/main/Images/Integrated-Terminal.png)
+![Opening intergrated terminal from the source_Code folder](./Images/Integrated-Terminal.png)
 
  Next, we need to install the "Inquirer" package from NODE.js. To do this, type
  ```
@@ -40,11 +40,11 @@ To use the application, open the locally stored code in VS Code. NODE.js is need
   
 The program will run a series of questions, asking for a title, a description, installation instructions, usage instructions, a license choice, instructions for contributions from others, tests to run, and information so that users with questions can reach out to you.  
 
-![Terminal with answered questions](./tree/main/Images/Run_App.png)
+![Terminal with answered questions](./Images/Run_App.png)
 
 Once these questions are completed, the application will construct the README.md file and will save it to the "Created_File" folder.
 
-![Readme created by the application](./tree/main/Images/Built_Readme.png)
+![Readme created by the application](./Images/Built_Readme.png)
 
 From there, the file can be edited or copied to better match the needs of your project. If more than one README.md is to be created, make sure to remove the readme from the folder or it will be overwritten by the next file. 
 
