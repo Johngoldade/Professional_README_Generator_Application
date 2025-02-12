@@ -56,7 +56,7 @@ From there, the file can be edited or copied to better match the needs of your p
 
 ## License
 
-Licensed under the [MIT](https://github.com/github/choosealicense.com/blob/gh-pages/_licenses/mit.txt) license.
+Licensed under the [MIT](./LICENSE) license.
 
 ## Contributing
 
