@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a NODE.js application to generate a professional README.md for any project. THe code is open source and available for anyone to use under the MIT license. 
+This is a NODE.js application to generate a professional README.md for any project. The code is open source and available for anyone to use under the MIT license. 
 
 ## Table of Contents
 
